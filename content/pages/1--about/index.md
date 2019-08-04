@@ -2,26 +2,14 @@
 title: About
 ---
 
-This is a demo site of the [HeroBlog](https://github.com/greglobinski/gatsby-starter-hero-blog), a [GatsbyJS](https://www.gatsbyjs.org/) starter.
+My name is Mike, I am a software engineer living in Ireland working for a well known Silcon Valley tech company. 
 
-### Features:
+In my sparetime I love to cook. Especially on charcoal fires. I was born and raised in South Africa and while I have not lived there in a long time the spirit of braaing has lived on in me. I love to braai. 
 
-* Easy editable content in **Markdown** files (posts, pages and parts)
-* **CSS** with `styled-jsx` and `PostCSS`
-* **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
-* **Social** sharing (Twitter, Facebook, Google, LinkedIn)
-* **Comments** (Facebook)
-* **Images** lazy loading and `webp` support (gatsby-image)
-* Post **categories** (category based post list)
-* Full text **searching** (Algolia)
-* **Contact** form (Netlify form handling)
-* **RSS** feed
-* 100% **PWA** (manifest.webmanifest, offline support, favicons)
-* Google **Analytics**
-* App **favicons** generator (node script)
-* Easy customizable base **styles** via `theme` object generated from `yaml` file (fonts, colors, sizes)
-* React **v.16** (gatsby-plugin-react-next)
-* **Components** lazy loading (social sharing)
-* **ESLint** (google config)
-* **Prettier** code styling
-* Webpack `BundleAnalyzerPlugin`
+![Me](./me.png)
+
+I try new recipes all the time and sometimes I can't remeber where I found a recipe or what I thought about something when it was cooked so I bought this domain to blog about what I am cooking, where I found the recipe and what it was like. 
+
+I am also building this website using alot of cool current technologies for building websites so I will be keeping a log about how I built this for people who are interested as well. 
+
+Enjoy!

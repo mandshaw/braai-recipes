@@ -25,9 +25,6 @@ class IndexPage extends React.Component {
         },
         bgMobile: {
           resize: { src: mobile }
-        },
-        site: {
-          siteMetadata: { facebook }
         }
       }
     } = this.props;
@@ -51,8 +48,6 @@ class IndexPage extends React.Component {
         <ThemeContext.Consumer>
           {theme => <Blog posts={posts} theme={theme} />}
         </ThemeContext.Consumer>
-
-        <Seo facebook={facebook} />
 
         <style jsx>{`
           hr {
@@ -102,24 +97,17 @@ export const query = graphql`
         }
       }
     }
-    site {
-      siteMetadata {
-        facebook {
-          appId
-        }
-      }
-    }
-    bgDesktop: imageSharp(fluid: { originalName: { regex: "/hero-background/" } }) {
+    bgDesktop: imageSharp(fluid: { originalName: { regex: "/fire/" } }) {
       resize(width: 1200, quality: 90, cropFocus: CENTER) {
         src
       }
     }
-    bgTablet: imageSharp(fluid: { originalName: { regex: "/hero-background/" } }) {
+    bgTablet: imageSharp(fluid: { originalName: { regex: "/fire/" } }) {
       resize(width: 800, height: 1100, quality: 90, cropFocus: CENTER) {
         src
       }
     }
-    bgMobile: imageSharp(fluid: { originalName: { regex: "/hero-background/" } }) {
+    bgMobile: imageSharp(fluid: { originalName: { regex: "/fire/" } }) {
       resize(width: 450, height: 850, quality: 90, cropFocus: CENTER) {
         src
       }
@@ -127,4 +115,4 @@ export const query = graphql`
   }
 `;
 
-//hero-background
+//fire
