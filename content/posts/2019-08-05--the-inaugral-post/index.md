@@ -22,7 +22,7 @@ On the menu was smoked mussels, prawn [sosaties](https://en.m.wikipedia.org/wiki
 
 All the recipes came from my various bbq books. I'll link which came from where and the book when I write up the ones that I liked.
 
-Was some successful items some not so successful. Had some heat issues with my fire which was unusual. Usually I run too hot but I think I over compensated (seafood cooks **fast**). Anyway the mussels didnât open as much as I'd hoped and I didn't get a good char on my prawn sosaties.
+Was some successful items some not so successful. Had some heat issues with my fire which was unusual. Usually I run too hot but I think I over compensated (seafood cooks **fast**). Anyway the mussels didn't open as much as I'd hoped and I didn't get a good char on my prawn sosaties.
 
 I did modify a recipe and make a really good jalapeno and avocado dip and the seabass was delicious. The chocolate cakes are always a hit.
 
