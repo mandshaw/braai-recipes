@@ -614,4 +614,20 @@ I have isolated the error to only happening if I include devlog3 and something a
 
 It's 23:30pm and Eva is looking at me like I am in trouble. Delete it and lets ship
 
-I am going to replace this entire dir structure with my old site and push to master :fearful:. It's late and I am tired. 
+I am going to point this new dir at my git repo and push. If anything goes wrong I have my old dir. 
+
+`git remote add origin https://github.com/mandshaw/braai-recipes.git`
+
+The theme is going to make the repo look a little different, it's asking me to pull and I don't want to do that. 
+
+`git push --force --set-upstream origin master`
+
+Feck Algolia Broke the build!
+
+![Algolia](./algolia.png)
+
+OK Let me sign up for Algolia real quick as it looks like it just needs some environment variables. 
+
+:pray:
+
+It worked! Yay!
