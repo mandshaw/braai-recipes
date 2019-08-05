@@ -1,7 +1,7 @@
 ---
 title: Developer Log 1 - Why am I doing this
 category: "devlogs"
-author: michael shaw
+author: mike shaw
 cover: cover.png
 ---
 

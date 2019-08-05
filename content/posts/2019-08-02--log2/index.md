@@ -1,7 +1,7 @@
 ---
 title: Developer Log 2 - How I launched the site
 category: "devlogs"
-author: michael shaw
+author: mike shaw
 cover: its-alive.png
 ---
 So to install Gastby.js I needed `npm` and to install `npm` on Mac OS I needed to update Homebrew which I have hadn't done it ages so it hung and I Ctrl+C'ed it and now I am not sure if it worked or not cause it looked like it was killed but it seems to work. Whatever.
@@ -340,7 +340,7 @@ Let me update my `package.json` first to make sure the owner and repo URL are co
   "private": true,
   "description": "A Gatsby Blog for my Braai Recipes",
   "version": "0.1.0",
-  "author": "Michael Shaw <michael.and.shaw@gmail.com>",
+  "author": "Mike Shaw <mike.and.shaw@gmail.com>",
   "dependencies": {
     "gatsby": "^2.13.45",
     "gatsby-image": "^2.2.7",

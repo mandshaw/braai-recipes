@@ -1,7 +1,7 @@
 ---
 title: Developer Log 3 - Fixing Markdown Images, Emojis and Google Analytics
 category: "devlogs"
-author: michael shaw
+author: mike shaw
 cover: cover2.png
 ---
 
