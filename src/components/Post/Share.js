@@ -27,6 +27,9 @@ const PostShare = props => {
   } = props;
 
   const url = config.siteUrl + config.pathPrefix + slug;
+  console.log(config.siteUrl);
+  console.log(config.pathPrefix);
+  console.log(slug);
 
   const iconSize = 36;
   const filter = count => (count > 0 ? count : "");

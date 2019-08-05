@@ -3,7 +3,7 @@ module.exports = {
   shortSiteTitle: "Braai Recipes", // <title> ending for posts and pages
   siteDescription: "Braai Recipes is a blog about recipes I like to braai",
   siteUrl: "https://www.braai.recipes",
-  // pathPrefix: "",
+  pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
 
