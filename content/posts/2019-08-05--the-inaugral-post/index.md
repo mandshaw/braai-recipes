@@ -5,9 +5,9 @@ author: mike shaw
 cover: chocolate-cakes.png
 ---
 
-Today we had the inaugural braai for the site! As you know a braai is a type of barbecue unique to South Africa. I still call it a braai even though in Ireland you can't get decent hardwood (Itâs too wet) and I use a Weber kettle. 
+Today we had the inaugural braai for the site! As you know a braai is a type of barbecue unique to South Africa. I still call it a braai even though in Ireland you can't get decent hardwood (It's too wet) and I use a Weber kettle. 
 
-So somewhere someone is saying that's not a _real_ braai. But I host friends and family and drink and eat too much food cooked on a fire (never gas). Itâs as good as we get here.
+So somewhere someone is saying that's not a __real__ braai. But I host friends and family and drink and eat too much food cooked on a fire (never gas). It's as good as we get here.
 
 ![My Dirty Weber](./my-dirty-weber.png)
 
