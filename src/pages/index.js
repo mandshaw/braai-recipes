@@ -70,7 +70,7 @@ export default IndexPage;
 export const query = graphql`
   query IndexQuery {
     posts: allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "//posts/[0-9]+.*--/" } }
+      filter: { fileAbsolutePath: { regex: "//posts/[0-9]+.*--/" }, frontmatter: { category: { in: ["braais","recipes"] } } }
       sort: { fields: [fields___prefix], order: DESC }
     ) {
       edges {
