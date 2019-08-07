@@ -3,7 +3,7 @@ title: Dirty Carrots
 category: "recipes"
 author: mike shaw
 tags: ["veggies", "dirty"]
-# cover: dirty-food.png
+cover: dirty-food.png
 ---
 
 I don't often put carrots on the braai. Dunno why really. I think I am just biased to their paler and tastier cousins parsnips. Not sure. 
