@@ -11,7 +11,7 @@ So somewhere someone is saying that's not a __real__ braai. But I host friends a
 
 ![My Dirty Weber](./my-dirty-weber.png)
 
-Anyway we had Thor, who inspired kicking off this whole blog over and My soon to be brother-in-law Andy. 
+Anyway, we had Thor, who inspired kicking off this whole blog over and My soon to be brother-in-law Andy. 
 
 On the menu was smoked mussels, prawn [sosaties](https://en.m.wikipedia.org/wiki/Sosatie), grilled seabass and chocolate cakes.
 

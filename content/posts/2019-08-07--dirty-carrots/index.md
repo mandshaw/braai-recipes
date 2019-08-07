@@ -2,10 +2,11 @@
 title: Dirty Carrots
 category: "recipes"
 author: mike shaw
-cover: dirty-food.png
+tags: ["veggies", "dirty"]
+# cover: dirty-food.png
 ---
 
-I don't often put carrots on the braai. Dunno why really. I think I just biased to their paler and tastier cousins parsnips. Not sure. 
+I don't often put carrots on the braai. Dunno why really. I think I am just biased to their paler and tastier cousins parsnips. Not sure. 
 
 Anyway a good friend gave me **another** bbq book recently. [Fire Food]( https://www.amazon.co.uk/dp/1787131548/ref=cm_sw_em_r_mt_dp_U_dNNsDbRJKS3S4) by [DJ BBQ](https://twitter.com/DJ_BBQ?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). 
 
