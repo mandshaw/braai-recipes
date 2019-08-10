@@ -6,7 +6,7 @@ author: mike shaw
 cover: chocolate-cakes2.png
 ---
 
-This recipe is from a [Weber's Greatest Hits](https://www.bookdepository.com/Webers-Greatest-Hits-Jamie-Purviance/9780544952379) book but you can see it on [their website](https://www.weber.com/IE/en/recipes/desserts/warm-molten-chocolate-cakes-with-fresh-berries/weber-89699.html) as well.
+This recipe is from a [Weber's Greatest Hits](https://amzn.to/2M8zMfa) book but you can see it on [their website](https://www.weber.com/IE/en/recipes/desserts/warm-molten-chocolate-cakes-with-fresh-berries/weber-89699.html) as well.
 
 It's really good. I also learn't a variation of it at a Weber Essentials Grill school course. Which seems to be similar but uses Mascarpone and Caster sugar instead. 
 

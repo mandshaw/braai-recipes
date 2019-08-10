@@ -6,7 +6,7 @@ tags: ["lamb", "sosaties", "skewers"]
 cover: lamb-sosaties.png
 ---
 
-This is **the** recipes that made me want to build this website. 3.5 Years ago it was winter in Ireland, January in fact and we decided to have a family Braai in what we expected to be be close to 0 degrees celsius. January blues melted away by a toasty Braai. I found this recipe online, made it, loved it and then forgot where I found it and have been searching since!
+This is **the** recipes that made me want to build this website. 3.5 Years ago it was winter in Ireland, and we decided to have a family Braai in what we expected to be be close to 0 degrees celsius. January blues melted away by a toasty Braai. I found this recipe online, made it, loved it and then forgot where I found it and have been searching since!
 
 Thanks to some digging I found the pictures and a write up I did incase I wanted to blog about it in the future! I love it when past me sends future me some tasty things!
 
@@ -43,7 +43,7 @@ I may have forgotten some ingredients there was sports on...
 
 ## Braai Time
 
-I built the sosaties trying to space out the lamb, apricots, peppers and onions. Give yourself some time. It takes time! I recommend the Weber Double Pronged Skewers
+I built the sosaties trying to space out the lamb, apricots, peppers and onions. Give yourself some time. It takes time! I recommend the [Weber Double Pronged Skewers](https://amzn.to/33qx36c)
 
 ![Getting Ready](./getting-ready.png)
 
