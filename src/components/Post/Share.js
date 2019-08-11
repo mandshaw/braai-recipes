@@ -1,16 +1,14 @@
 import React from "react";
 import PropTypes from "prop-types";
 import {
+  WhatsappShareButton,
   FacebookShareButton,
-  GooglePlusShareButton,
   LinkedinShareButton,
   TwitterShareButton,
   FacebookShareCount,
-  GooglePlusShareCount,
-  LinkedinShareCount,
+  WhatsappIcon,
   FacebookIcon,
   TwitterIcon,
-  GooglePlusIcon,
   LinkedinIcon
 } from "react-share";
 
@@ -39,6 +37,12 @@ const PostShare = props => {
       <div className="share">
         <span className="label">SHARE</span>
         <div className="links">
+          <WhatsappShareButton
+            url={url}
+            title={title}
+          >
+            <WhatsappIcon round size={iconSize} />
+          </WhatsappShareButton>
           <TwitterShareButton
             url={url}
             title={title}
@@ -48,17 +52,6 @@ const PostShare = props => {
           >
             <TwitterIcon round size={iconSize} />
           </TwitterShareButton>
-          <GooglePlusShareButton
-            url={url}
-            additionalProps={{
-              "aria-label": "Google share"
-            }}
-          >
-            <GooglePlusIcon round size={iconSize} />
-            <GooglePlusShareCount url={url}>
-              {count => <div className="share-count">{filter(count)}</div>}
-            </GooglePlusShareCount>
-          </GooglePlusShareButton>
           <FacebookShareButton
             url={url}
             quote={`${title} - ${excerpt}`}
@@ -80,9 +73,6 @@ const PostShare = props => {
             }}
           >
             <LinkedinIcon round size={iconSize} />
-            <LinkedinShareCount url={url}>
-              {count => <div className="share-count">{filter(count)}</div>}
-            </LinkedinShareCount>
           </LinkedinShareButton>
         </div>
       </div>

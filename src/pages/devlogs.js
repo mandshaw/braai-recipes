@@ -2,6 +2,8 @@ import PropTypes from "prop-types";
 import React from "react";
 import { graphql } from "gatsby";
 import { ThemeContext } from "../layouts";
+import Article from "../components/Article/";
+import Headline from "../components/Article/Headline";
 import Blog from "../components/Blog";
 
 class IndexPage extends React.Component {
@@ -22,11 +24,21 @@ class IndexPage extends React.Component {
       <React.Fragment>
 
         <ThemeContext.Consumer>
+          {theme => (
+            <Article theme={theme}>
+            <header>
+              <Headline title="Developer Logs" theme={theme} />
+            </header>
+            </Article>
+          )}
+        </ThemeContext.Consumer>
+
+        <ThemeContext.Consumer>
           {theme => <Blog posts={posts} theme={theme} />}
         </ThemeContext.Consumer>
 
         <style jsx>{`
-          hr {
+          h1 {
             margin: 0;
             border: 0;
           }
