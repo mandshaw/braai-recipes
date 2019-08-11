@@ -1,8 +1,3 @@
-#!bin/sh
-
-# Exit the script on any command with non 0 return code
-set -e
-
 npx sharp -i ./src/images/app-icons/icon.png -o ./static/icons/favicon-16x16.png resize 16
 npx sharp -i ./src/images/app-icons/icon.png -o ./static/icons/favicon-32x32.png resize 32
 npx sharp -i ./src/images/app-icons/icon.png -o ./static/icons/favicon-96x96.png resize 96

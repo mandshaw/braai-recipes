@@ -4,7 +4,6 @@ module.exports = {
   siteDescription: "Braai Recipes is a blog about recipes I like to braai",
   siteUrl: "https://www.braai.recipes",
   pathPrefix: "",
-  siteImage: "preview.jpg",
   siteLanguage: "en",
 
   /* author */

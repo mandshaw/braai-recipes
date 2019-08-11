@@ -110,22 +110,24 @@ exports.createPages = ({ graphql, actions }) => {
         });
 
         // Create posts
-        const posts = items.filter(item => item.node.fields.source === "posts");
-        posts.forEach(({ node }, index) => {
-          const slug = node.fields.slug;
-          const next = index === 0 ? undefined : posts[index - 1].node;
-          const prev = index === posts.length - 1 ? undefined : posts[index + 1].node;
-          const source = node.fields.source;
+        categoryList.forEach((category) => {
+          const posts = items.filter(item => item.node.fields.source === "posts" && item.node.frontmatter.category === category);
+          posts.forEach(({ node }, index) => {
+            const slug = node.fields.slug;
+            const next = index === 0 ? undefined : posts[index - 1].node;
+            const prev = index === posts.length - 1 ? undefined : posts[index + 1].node;
+            const source = node.fields.source;
 
-          createPage({
-            path: slug,
-            component: postTemplate,
-            context: {
-              slug,
-              prev,
-              next,
-              source
-            }
+            createPage({
+              path: slug,
+              component: postTemplate,
+              context: {
+                slug,
+                prev,
+                next,
+                source
+              }
+            });
           });
         });
 
