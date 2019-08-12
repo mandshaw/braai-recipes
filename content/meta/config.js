@@ -2,9 +2,11 @@ module.exports = {
   siteTitle: "Braai Recipes", // <title>
   shortSiteTitle: "Braai Recipes", // <title> ending for posts and pages
   siteDescription: "Braai Recipes is a blog about recipes I like to braai",
-  siteUrl: "https://www.braai.recipes",
+  // siteUrl: "https://www.braai.recipes",
+  siteUrl: "https://5a22d808.ngrok.io",
   pathPrefix: "",
   siteLanguage: "en",
+  siteImage: "card.png",
 
   /* author */
   authorName: "Mike Shaw",
