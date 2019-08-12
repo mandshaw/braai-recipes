@@ -12,7 +12,7 @@ const Seo = props => {
 
   const title = postTitle ? `${postTitle} - ${config.shortSiteTitle}` : config.siteTitle;
   const description = postDescription ? postDescription : config.siteDescription;
-  const image = postCover ? postCover : config.siteImage;
+  const imageURL = postCover ? config.siteUrl + postCover.childImageSharp.resize.src : config.siteUrl + config.siteImage;
   const url = config.siteUrl + config.pathPrefix + postSlug;
 
   return (
@@ -29,7 +29,7 @@ const Seo = props => {
       <meta property="og:url" content={url} />
       <meta property="og:title" content={title} />
       <meta property="og:description" content={description} />
-      <meta property="og:image" content={image} />
+      <meta property="og:image" content={imageURL} />
       <meta property="og:type" content="website" />
       {/* Twitter Card tags */}
       <meta name="twitter:card" content="summary" />

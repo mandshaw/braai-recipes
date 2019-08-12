@@ -5,6 +5,7 @@ module.exports = {
   siteUrl: "https://www.braai.recipes",
   pathPrefix: "",
   siteLanguage: "en",
+  siteImage: "card.png",
 
   /* author */
   authorName: "Mike Shaw",
