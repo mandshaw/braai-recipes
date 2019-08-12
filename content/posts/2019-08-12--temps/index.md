@@ -5,6 +5,8 @@ author: mike shaw
 cover: cover.png
 ---
 
+A reference for when I need to remember what temperature my meat should be... in **Celcius**!!!
+
 ## Sections
 * [Beef and Lamb](#beef-and-lamb)
 * [Pork](#pork)
