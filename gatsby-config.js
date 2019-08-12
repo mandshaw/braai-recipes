@@ -153,6 +153,7 @@ module.exports = {
         short_name: config.manifestShortName,
         start_url: config.manifestStartUrl,
         background_color: config.manifestBackgroundColor,
+        background: 'FF9B84',
         theme_color: config.manifestThemeColor,
         display: config.manifestDisplay,
         icons: [
