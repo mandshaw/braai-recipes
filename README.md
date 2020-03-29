@@ -2,11 +2,11 @@
 
 ![Welcome](content/posts/2019-08-04--log4/welcome.png)
 
-A [GatsbyJS](https://www.gatsbyjs.org/) Website that powers [www.braai.recipes](www.braai.recipes)
+A [GatsbyJS](https://www.gatsbyjs.org/) Website that powers [www.braai.recipes](https://www.braai.recipes)
 
 ## Description
 
-This repo is used by [Netlify](www.netlify.com) to build my website. 
+This repo is used by [Netlify](www.netlify.com) to build my website.
 
 ## Authors
 
