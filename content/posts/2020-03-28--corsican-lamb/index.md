@@ -2,7 +2,7 @@
 title: Corsican Lamb
 category: "recipes"
 author: mike shaw
-cover: cover.png
+cover: cover.jpg
 ---
 
 We are in lockdown here in Ireland and while I was picking up some essential
